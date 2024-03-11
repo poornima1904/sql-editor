@@ -1,11 +1,9 @@
-![sql-editor](https://socialify.git.ci/amaan14999/atlan-sql-editor/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
-
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 # SQL Editor: QUERTY
 
-Link to the hosted app: [https://sql-editor.itsamaan.me/](https://sql-editor.itsamaan.me/)
+Link to the hosted app: [https://atlan-sql-editor.pages.dev/](https://atlan-sql-editor.pages.dev/)
 
 ## Introduction
 
@@ -50,7 +48,7 @@ A detailed description of the problem statement is given at the end of the docum
 - Clone the repository using
 
   ```bash
-  git clone https://github.com/amaan14999/atlan-sql-editor.git
+  git clone
   ```
 
 - Install the dependencies using
@@ -113,11 +111,3 @@ The results of the analysis are as follows:
 - Editor page load time and performance <strong>`FCP: 0.6s`, `LCP: 0.6s`</strong>:
   <img width="720" alt="EditorPage.jpg" src="https://github.com/amaan14999/atlan-sql-editor/assets/73187712/212c1cfb-1c42-41d2-8125-904a4771367d">
 
-
-## 👨‍💻 Contributors
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/amaan14999"><img src="https://avatars.githubusercontent.com/u/73187712?v=4" width="100px;" alt="" style="border-radius:50%"/><br /><sub><b>Amaan</b></sub></a><br /></td>  
-  </tr>
-</table>
